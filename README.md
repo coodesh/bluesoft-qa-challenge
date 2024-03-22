@@ -1,4 +1,4 @@
-# Q.A Challenge Luma Store
+# Bluesoft QA
 
 Este é um desafio para que possamos ver as suas habilidades como QA/Tester.
 
